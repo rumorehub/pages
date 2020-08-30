@@ -1,0 +1,151 @@
+			         .page {
+		                background-color : #939D81;
+						margin : 0px 0px 0px 0px;
+	                               }
+					 .edit {
+					     background-image: url(img/bg.gif);
+						 border: solid 1px #C0C0C0;
+						 font-family: arial;
+						 font-size: 8pt;
+					           }
+					.futureLink{
+						background: #4B9F67;
+						padding: 2px;
+						color: #ffffff;
+						font-weight: bold;
+						text-align: center;
+						border: solid 1px #ffffff;
+						}	
+					a:link, a:visited, a:link{
+					    color: #009933;
+	                    text-decoration: underline;
+						font-weight: bold;
+					   }
+			        a:hover{
+					   color: #009933;
+	                   text-decoration: underline;
+					   font-weight: bold;
+					   }	
+					 .Header{font-size: 13pt; font-weight: bold;}
+					  .left_top_bar 
+					            {
+					    background-color : #939D81;
+						width : 24px;
+						height : 14px;
+						          }
+					  .decor_flower
+					            {
+						background-image : url(img/flower_bar.gif);
+					    background-color : #939D81;
+						height : 32px;
+						          }
+					    .outerbody_bg {
+				     background-color: #ffffff;
+				                  }
+					   .menu {
+				        background-color: none;
+	                               }
+			       .menuButton, .menudefault, .menuButton_on {
+				        background-color: #91C46F;
+		                font-family : arial;
+		                font-size : 8pt;
+						font-weight : bold;
+						color : #ffffff;
+						font-style : normal;
+						padding-left: 15px;
+						padding-right :15px;
+	                               }
+					.menuButton {
+						background-color: #91C46F;
+					}
+					.menuButton_on {
+						background-color: #FF9600;
+					}
+                    .menudefault{
+					background-color: #91C46F;
+					width:25%;
+					 }
+					.menuright {
+						background-color: #91C46F;
+						width:1px;
+					}
+					.menuright_on {
+						background-color: #FF9600;
+						width:1px;
+					}
+					
+					.menuleft {
+						background-color: #91C46F;
+						width:1px;
+					}
+                    .menuleft_on {
+						background-color: #FF9600;
+						width:1px;
+					}
+					.menu_ButtonHeight {
+					  background-color : none ;
+					   width: 0px;
+					   height: 30px;
+					}
+					.menu_h_space{
+					background-color : #ffffff ;
+					height : 1px;
+					}
+					.menu a:link, .menu a:active{
+					color: #ffffff;
+	                text-decoration: none;
+					}
+					.menu a:hover, .menu a:visited{
+					color: #ffffff;
+	                text-decoration: none;
+					}
+					 .signin td
+						{
+						font-family: arial;
+						font-size: 8pt;
+						color: #000000;
+						}
+					.signin a:link, .signin a:visited, .signin a:link{
+					    color: #0000cc;
+	                    text-decoration: underline;
+					   }
+			        .signin a:hover{
+					   color: #0000cc;
+	                   text-decoration: underline;
+					   }	
+					 .toolHeader{color: #37760D;}
+					 .toolText {color: #000000; font-size:8pt;}
+					  .body {
+				          font-family : arial;
+						  font-size : 9pt;
+						  font-weight : normal;
+						  color : #000000;
+						  font-style : normal;
+						               }
+					 .body td {
+				          font-family : arial;
+						  font-size : 9pt;
+						  font-weight : normal;
+						  color : #000000;
+						  font-style : normal;
+						               }
+					  .footer{
+					    background-color : #B3947B;
+						font-family : arial;
+						font-size : 7pt;
+						font-weight : normal;
+						color : #ffffff;
+						font-style : normal;
+						padding : 3px;
+						}
+                    .footer td{
+					    background-color : #B3947B;
+						font-family : arial;
+						font-size : 7pt;
+						font-weight : normal;
+						color : #ffffff;
+						font-style : normal;
+						padding : 3px;
+						}
+					 li {color:#009933; font-weight:bold;}
+					  .divider{background-image: url(img/h_dotline.gif); background-repeat: repeat-x;}
